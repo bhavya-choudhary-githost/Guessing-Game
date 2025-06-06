@@ -1,4 +1,4 @@
-print ('Welcome to the Guessing Game!!!\n Here you have to guess a secret word, you get 10 chances and 3 total hints')
+gitprint ('Welcome to the Guessing Game!!!\n Here you have to guess a secret word, you get 10 chances and 3 total hints')
 
 secret_word = "King Kong"
 guess = ''
